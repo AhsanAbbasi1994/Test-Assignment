@@ -1,0 +1,14 @@
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\bin\Debug\net8.0\Pre-Employment Test.exe
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\bin\Debug\net8.0\Pre-Employment Test.deps.json
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\bin\Debug\net8.0\Pre-Employment Test.runtimeconfig.json
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\bin\Debug\net8.0\Pre-Employment Test.dll
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\bin\Debug\net8.0\Pre-Employment Test.pdb
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\obj\Debug\net8.0\Pre-Employment Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\obj\Debug\net8.0\Pre-Employment Test.AssemblyInfoInputs.cache
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\obj\Debug\net8.0\Pre-Employment Test.AssemblyInfo.cs
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\obj\Debug\net8.0\Pre-Employment Test.csproj.CoreCompileInputs.cache
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\obj\Debug\net8.0\Pre-Employment Test.dll
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\obj\Debug\net8.0\refint\Pre-Employment Test.dll
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\obj\Debug\net8.0\Pre-Employment Test.pdb
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\obj\Debug\net8.0\Pre-Employment Test.genruntimeconfig.cache
+D:\C# Class\Pre-Employment Test\Pre-Employment Test\obj\Debug\net8.0\ref\Pre-Employment Test.dll
